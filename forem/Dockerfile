@@ -1,4 +1,4 @@
-FROM quay.io/headline_design/forum:latest
+FROM quay.io/headline_design/forum-2
 
 # We create the localimages/uploads symlink to enable serving images from 
 # the Rails server in production. 
